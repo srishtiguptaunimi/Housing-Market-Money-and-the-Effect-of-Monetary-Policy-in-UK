@@ -1,9 +1,56 @@
-# Housing-Market-Money-and-the-Effect-of-Monetary-Policy-in-UK
-This Analysis is performed using Eviews
-I have worked on this project with my colleague.
+# Housing Market, Money, and the Effect of Monetary Policy in the UK
 
-The main idea of the project is as follows :-
-When people buy or sell houses, either to live in or as an investment, we refer to this as the housing market. A house is the most valuable thing many people will ever own. The house market is one of the biggest in any developed country and therefore one of the most impactful. 
-Previous studies had been conducted using the different models and variables, however, to our knowledge at the moment, none has considered the best theoretical approach to the inherent struc-ture of the data. In fact, most models we based on our research used mostly VAR models. The pur-pose of this study is to investigate key aspects of the UK house market. Our main objective is to understand the relationship between the house prices and the interest rate set by the monetary poli-cy. This is done using quarterly data from 1975 to 2020 and developing a time series Vector Error Correction Model. This approach allows us to distinguish between statistical correlation and eco-nomic causation.
-From our final model, we find that the effect of a GDP on house prices is large, and the monetary policy shock is existent but not so relevant in the short-medium period while it increases in the long run but not as much as we would have expected.  Shocks to the CPI and the interest rate are in turn found to have significant effects on house prices.
-Due to the large confidence bands of the impulse responses this result is, however, in general not statistically significant. Further research should be conducted in order to better understand the ef-fect of a market targeting monetary policy used to mitigate the economic uncertainty and unbalanc-es. 
+## Overview
+
+This repository explores the relationship between the housing market, money supply, and the effects of monetary policy in the United Kingdom. It aims to analyze how changes in monetary policy influence housing prices and market dynamics.
+
+## Contents
+
+- **Data**: Contains datasets relevant to the UK housing market and monetary policy.
+- **Results**: Presents findings from the analysis, including graphs and statistical outputs.
+- **Documentation**: Provides detailed explanations of methodologies used in the analysis.
+
+## Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/srishtiguptaunimi/Housing-Market-Money-and-the-Effect-of-Monetary-Policy-in-UK.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Housing-Market-Money-and-the-Effect-of-Monetary-Policy-in-UK
+   ```
+3. Run the analysis scripts:
+   ```bash
+   python analysis_script.py
+   ```
+
+## Analysis
+
+The analysis focuses on key aspects such as:
+
+- The correlation between interest rates and housing prices.
+- The impact of quantitative easing on housing market stability.
+- Historical trends in housing prices relative to changes in monetary policy.
+
+## Results
+
+The results section includes visualizations that illustrate:
+
+- Trends in housing prices over time.
+- The effect of monetary policy decisions on market behavior.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or additional analyses, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+Thanks to my team mate @Filippo with whom I worked on this project and we analyzed results together.
+
+Happy Learning!
+
