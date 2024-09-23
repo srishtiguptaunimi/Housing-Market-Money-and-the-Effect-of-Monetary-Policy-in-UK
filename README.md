@@ -20,10 +20,6 @@ This repository explores the relationship between the housing market, money supp
    ```bash
    cd Housing-Market-Money-and-the-Effect-of-Monetary-Policy-in-UK
    ```
-3. Run the analysis scripts:
-   ```bash
-   python analysis_script.py
-   ```
 
 ## Analysis
 
